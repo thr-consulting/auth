@@ -56,7 +56,7 @@
     "webpack-node-externals": "^1.6.0"
   },
   "peerDependencies": {
-    "@thx/meteor-redux-middleware": "^0.0.2"
+    "@thx/meteor-redux-middleware": "^1.0.0"
   },
   "dependencies": {
     "@thx/ducks": "^1.0.0",
