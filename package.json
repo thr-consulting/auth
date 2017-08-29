@@ -1,6 +1,6 @@
 {
   "name": "@thx/auth",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Opinionated user auth for Meteor/Redux",
   "main": "dist/client.js",
   "scripts": {
