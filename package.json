@@ -59,7 +59,7 @@
     "@thx/meteor-redux-middleware": "^1.0.0"
   },
   "dependencies": {
-    "@thx/ducks": "^1.0.0",
+    "@thx/ducks": "^3.0.0",
     "debug": "^3.0.0",
     "immutable": "^3.8.1",
     "lodash": "^4.17.4"
